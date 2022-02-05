@@ -99,11 +99,51 @@ c) Mary has acquired some new lexical items. She now knows play, plays, and play
 
 11\. a) Which of the following sentences should be grammatical in (adult)Italian? The translations are as follows: _lui_ (he-NOM), _è_ (is - used like the English auxiliary has ), _arrivato_ (arrived - past participle; as in has arrived ). Explain your answers. Compare your answers for Italian to the judgments given for English. What is the parameter, exemplified here, on which Italian and English differ?
 
-| ITALIAN | ENGLISH |
-| --- | --- |
-| \_\_ è arrivato | "\_\_ has arrived"  {{< br >}}bad |
-| lui è arrivato \[neutral intonation\] | "he has arrived"  {{< br >}}good |
-| LUI è arrivato \[contrastive pronoun\] | "HE has arrived"  {{< br >}}good 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ITALIAN
+{{< thclose >}}
+{{< thopen >}}
+ENGLISH
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+\_\_ è arrivato
+{{< tdclose >}}
+{{< tdopen >}}
+"\_\_ has arrived"  
+bad
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+lui è arrivato \[neutral intonation\]
+{{< tdclose >}}
+{{< tdopen >}}
+"he has arrived"  
+good
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LUI è arrivato \[contrastive pronoun\]
+{{< tdclose >}}
+{{< tdopen >}}
+"HE has arrived"  
+good
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -116,10 +156,66 @@ c) What actually happens with this parameter in acquisition of English vs. Itali
 
 a) In his early samples, George drops subjects about 40% of the time. Given this information, fill in the empty cells in the table below: what would the processing vs. grammatical models predict to be percentages of full NP and pronominal subjects in George's early samples? Explain your answers. Which model is better supported by the data of Eve and Adam that we looked at in class?
 
-| PREDICTIONS |
-| --- |
-| MODEL | Full NP Subjects | Pronominal Subjects | Null Subjects |
-|  {{< br >}}{{< br >}} Output Omission Model {{< br >}}{{< br >}}  | &nbsp; | 40% |
-| Grammatical model | &nbsp; | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PREDICTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+MODEL
+{{< tdclose >}}
+{{< tdopen >}}
+Full NP Subjects
+{{< tdclose >}}
+{{< tdopen >}}
+Pronominal Subjects
+{{< tdclose >}}
+{{< tdopen >}}
+Null Subjects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Output Omission Model
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Grammatical model
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 b) Suppose that, while dropping subjects 40% of the time, George drops objects only 2% of the time. On the other hand, Greta, a Dutch-speaking two-year-old, drops subjects 45% of the time and drops objects 25% of the time. How might this discrepancy be explained under the theory of Topic-Drop? (see Hyams and Wexler, section 2.3). What would this theory predict about the placement of the null subject or object in Greta’s Dutch?
